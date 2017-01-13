@@ -1,0 +1,7 @@
+jasypt:
+  encryptor:
+    algorithm: PBEWithMD5AndDES
+    password: secretkey
+
+variable:
+  secret-var: ENC(VMAckVUvHhbiEpU1pG4JuFyc3WWR5CJ8FkRTmpcZoow=)
